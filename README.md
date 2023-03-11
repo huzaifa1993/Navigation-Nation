@@ -11,5 +11,10 @@ navigation nation is animated navigation bar with advanced animations CSS.
 -some tech websites like" w3school https://www.w3schools.com/
 MDN web docs https://mdn.dev/<br>
 
+<h3>Theme</h3>
+-using Nunito and sans-serif fonts from google fonts.<br>
+-using favicon to characterise my website.<br>
+
+
 
 
