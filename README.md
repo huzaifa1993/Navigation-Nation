@@ -4,6 +4,7 @@ navigation nation is animated navigation bar with advanced animations CSS.
 <h3>The tools and technologies used to build the project:</h3>
 -HTML<br>
 -CSS<br>
+_JS<br>
 -VS code as code editor.<br>
 -GoogleMeet for meeting and pair programming and collaborating with other devs.<br>
 -Github for hosting my code base and project management, track tickets, and visibility.<br>
