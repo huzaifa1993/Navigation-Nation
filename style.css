@@ -122,7 +122,7 @@ nav li:nth-of-type(5) {
 }
 
 .slide-in-4 {
-  animation: slide-in 0.4s linear 0.28 both;
+  animation: slide-in 0.4s linear 0.8s both;
 }
 
 .slide-in-5 {
@@ -151,7 +151,7 @@ nav li:nth-of-type(5) {
 }
 
 .slide-out-4 {
-  animation: slide-out 0.3s linear 0.2 both;
+  animation: slide-out 0.3s linear 0.2s both;
 }
 
 .slide-out-5 {
