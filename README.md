@@ -15,6 +15,13 @@ MDN web docs https://mdn.dev/<br>
 -using Nunito and sans-serif fonts from google fonts.<br>
 -using favicon to characterise my website.<br>
 
+<h3>functions in the project</h3>
+- navAnimation function takes two parameter (direction1 and direction2).<br>
+   forEach is used with replace method.
+
+- toggleNav function do not take any parameter.<br>
+   toggle method is used with change class.
+
 
 
 
